@@ -1,2 +1,10 @@
-
+#navbar{
+	box-sizing:border-box;
+	display:flex;
+	overflow:hidden;
+	background-color:pink;
+	color:black;
+	text-decoration:none;
+	justify-content:space-between;
+}
 /* Your CSS Code here. */
